@@ -1,13 +1,12 @@
 import { useState } from 'react'
+import Navbar "@/Components/navbar";
 
 function App() {
   return (
-    <div className="app">
-       <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <div className="app bg-gray-200">
+       <Navabr />
     </div>
   )
 }
 
-export default App
+export default App;
