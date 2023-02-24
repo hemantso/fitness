@@ -15,6 +15,18 @@ const Navbar = (props: Props) => {
         <div className={`${flexBetween} mx-auto w-5/6`}>
           <div className={`${flexBetween} w-full gap`}>
             <img src={Logo} alt="logo" />
+            <div className={`${flexBetween} w-full`}>
+              <div className={`${flexBetween} gap-8 text-sm`}>
+                <p>Home</p>
+                <p>Benefits</p>
+                <p>Our Classes</p>
+                <p>Contact Us</p>
+              </div>
+              <div className={`${flexBetween} gap-8`}>
+                <p>Sign In</p>
+                <button>Become a Member</button>
+              </div>
+            </div>
           </div>
         </div>
       </div>
