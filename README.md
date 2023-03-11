@@ -11,7 +11,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Buy Now</h3>
+  <h3 align="center">EVOGYM</h3>
 
   <p align="center">
     EVOGYM is a landing page for fitness web application. Built using React.js/TypeScript and for intutive visual effect used the framer-motion. Used Tailwind css library to make application fully responsive application.
