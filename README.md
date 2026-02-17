@@ -65,7 +65,7 @@ EVOGYM is a landing page for fitness web application. Built using React.js/TypeS
 
 ## Live demo
 
-Deployed to Vercel - [live demo](https://fitness-five-iota.vercel.app/).
+Deployed to Vercel - [live demo](https://fitness-pm6tbyeyq-hemantso.vercel.app/).
 
 <!-- GETTING STARTED -->
 ## Getting Started
