@@ -19,7 +19,7 @@
     <a href="https://github.com/hemantso/fitness"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://fitness-git-develop-hemantso.vercel.app/">View Demo</a>
+    <a href="https://fitness-pm6tbyeyq-hemantso.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/hemantso/fitness/issues">Report Bug</a>
     ·
